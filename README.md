@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-_A supporter is worth a thousand followers._ <br/>I like coffee ☕, you can send me one [here](https://www.buymeacoffee.com/alicecodes)! <br/>
+_A supporter is worth a thousand followers._ <br/>I like coffee ☕, you can send me one [here](https://www.buymeacoffee.com/alicecodes) <br/>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicefrey&layout=compact) -->
 
