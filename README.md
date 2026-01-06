@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+_A supporter is worth a thousand followers._ <br/>I like coffee ☕, you can send me one [here](https://www.buymeacoffee.com/alicecodes)! <br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicefrey)](https://github.com/alicefrey/github-readme-stats)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicefrey&layout=compact) -->
+
+
 <!--
 **alicefrey/alicefrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
